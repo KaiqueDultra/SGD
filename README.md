@@ -4,3 +4,5 @@ o frequentando. O aplicativo SGD ajuda o usuário que deseja ir em algum estabel
 de pessoas que frequentaram aquele determinado local durante o dia, fazendo com que ele tenha uma base de informações sobre o local. Desse modo, o aplicativo
 SGD consegue satisfazer sua proposta inicial, mostrando aos usuários informações básicas sobre o local pesquisado, tendo como informação essencial a média demográfica
 dos estabelecimentos com escalas suportadas.
+
+
